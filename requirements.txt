@@ -2,3 +2,4 @@ requests
 jsonpath
 openpyxl
 pytest
+allure-pytest
